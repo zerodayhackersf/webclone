@@ -1,4 +1,4 @@
-sudo chmod +x webclone.sh
+sudo chmod +x webclone.sh --
 ./webclone.sh example.com
 
 
